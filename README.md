@@ -1,0 +1,1 @@
+https://github.com/is-consulting/moddingSuite/blob/master/moddingSuite/BL/Ess/EssReader.cs 的python翻译版
